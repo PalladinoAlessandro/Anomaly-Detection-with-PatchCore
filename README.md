@@ -45,7 +45,7 @@ Results can be found under `./results/`.
 
 ### Datasets
 
-The datasets folder and the needed subfolders are created by running the code. Note that you need at least 5 gb of free space to download all the datasets, plus additional space since the code will generate output images highlighting, where present, the anomalous regions in the test samples.
+The datasets folder and the needed subfolders are created by running the code. Note that you need around 6.5 gb of free space to download all the datasets, plus additional space since the code will generate output images highlighting, where present, the anomalous regions in the test samples.
 
 Here the link to download the MVTec datasets if you prefer to get them manually:
 
