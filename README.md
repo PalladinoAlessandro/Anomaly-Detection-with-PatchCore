@@ -11,20 +11,20 @@ In the following sections the instruction to run it:
 
 Mount:
 ```shell
-$ from google.colab import drive
-$ drive.mount('/content/drive')
+from google.colab import drive
+drive.mount('/content/drive')
 ```
 Go to the desired folder:
 ```shell
-$ cd /content/drive/MyDrive/'desired_folder'/
+cd /content/drive/MyDrive/'desired_folder'/
 ```
 Cloning from GitHub:
 ```shell
-$ !git clone https://github.com/PalladinoAlessandro/Anomaly-Detection-with-PatchCore/tree/main.git
+!git clone https://github.com/PalladinoAlessandro/Anomaly-Detection-with-PatchCore/tree/main.git
 ```
 Go to the folder "code":
 ```shell
-$ cd /content/drive/MyDrive/'desired_folder'/code
+cd /content/drive/MyDrive/'desired_folder'/code
 ```
 Install the requirements:
 ```shell
