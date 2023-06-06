@@ -22,9 +22,9 @@ Cloning from GitHub:
 ```shell
 !git clone https://github.com/PalladinoAlessandro/Anomaly-Detection-with-PatchCore.git
 ```
-Go to the folder "code":
+Go to the folder "Anomaly-Detection-with-PatchCore":
 ```shell
-cd /content/drive/MyDrive/'desired_folder'/code
+cd /content/drive/MyDrive/'desired_folder'/Anomaly-Detection-with-PatchCore
 ```
 Install the requirements:
 ```shell
