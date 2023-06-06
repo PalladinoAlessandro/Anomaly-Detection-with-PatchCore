@@ -28,14 +28,14 @@ cd /content/drive/MyDrive/'desired_folder'/code
 ```
 Install the requirements:
 ```shell
-$ !pip install --upgrade pip
-$ !pip install -r requirements.txt
-$ !pip install --upgrade git+https://github.com/openai/CLIP.git
+!pip install --upgrade pip
+!pip install -r requirements.txt
+!pip install --upgrade git+https://github.com/openai/CLIP.git
 ```
 
 CLI:
 ```shell
-$ !python indad/run.py
+!python indad/run.py
 # choose among the given options the desired Class and Backbone
 ```
 Results can be found under `./results/`.
