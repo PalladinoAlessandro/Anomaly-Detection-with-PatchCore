@@ -20,7 +20,7 @@ $ cd /content/drive/MyDrive/'desired_folder'/
 ```
 Cloning from GitHub:
 ```shell
-$ !git clone 'GitHub_link'.git
+$ !git clone https://github.com/PalladinoAlessandro/Anomaly-Detection-with-PatchCore/tree/main.git
 ```
 Go to the folder "code":
 ```shell
