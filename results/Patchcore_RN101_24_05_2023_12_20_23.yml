@@ -1,0 +1,10 @@
+average image rocauc: 1.0
+average pixel rocauc: 0.9884785053244141
+model parameters:
+  backbone_name: RN101
+  f_coreset: 0.1
+  n_reweight: 3
+per_class_results:
+  hazelnut_reduced:
+  - 1.0
+  - 0.9884785053244141
