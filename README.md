@@ -17,6 +17,7 @@ drive.mount('/content/drive')
 Go to the desired folder:
 ```shell
 cd /content/drive/MyDrive/'desired_folder'/
+# change 'desired_folder' with the actuall name of your folder
 ```
 Cloning from GitHub:
 ```shell
@@ -25,6 +26,7 @@ Cloning from GitHub:
 Go to the folder "Anomaly-Detection-with-PatchCore":
 ```shell
 cd /content/drive/MyDrive/'desired_folder'/Anomaly-Detection-with-PatchCore
+# change 'desired_folder'
 ```
 Install the requirements:
 ```shell
